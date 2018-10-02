@@ -13,6 +13,8 @@ This is a repository which stores the sample python codes of different machine l
 		K-Means Clustering, Hierarchical Clustering<br><br>
   <li>Association Rule</li>
 		Aprior, Eclat<br><br>
+  <li>Reinforcement</li>
+		Upper Confidence Bound (UCB)<br><br>
   </ul>
   
 Learning resources: Udemy Machine Learning A-Z course
