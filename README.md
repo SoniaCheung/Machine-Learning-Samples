@@ -14,7 +14,7 @@ This is a repository which stores the sample python codes of different machine l
   <li>Association Rule</li>
 		Aprior, Eclat<br><br>
   <li>Reinforcement</li>
-		Upper Confidence Bound (UCB)<br><br>
+		Upper Confidence Bound (UCB), Thompson Sampling<br><br>
   </ul>
   
 Learning resources: Udemy Machine Learning A-Z course
